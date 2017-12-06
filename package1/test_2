@@ -1,0 +1,4 @@
+message = "print message!"
+print(message)
+message = "I want print message"
+print(message)

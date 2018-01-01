@@ -3,7 +3,7 @@ cars = ['奥迪','奥拓','宝马','奔驰','吉利帝豪']
 
 
 while True:
-    car_name = input("请输入你喜欢的车品牌：")
+    car_name = input("请输入你喜欢的车品牌：")  #在输入的时候记得加上引号
     if car_name == '中华':
         print('很好测试成功Ture')
         break
